@@ -22,7 +22,7 @@ A proposta do trabalho inclui:
 📁 Arquivos do projeto:
 
 * index.html → Página inicial com introdução ao filme
-* pagina2.html → Página com mais detalhes sobre o filme
+* detalhes.html → Página com mais detalhes sobre o filme
 
 ---
 
